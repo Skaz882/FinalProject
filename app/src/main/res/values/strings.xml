@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="txtTitle">Color Picker</string>
+    <string name="txtBody">On the next screen, enter your favorite colors where prompted and then press the button to see them displayed on the next screen.\n  Press the button to continue.</string>
+    <string name="txtButton">Click Here</string>
+    <string name="txt1hint">Enter the first color</string>
+    <string name="txt2hint">Enter the second color</string>
+    <string name="txt3hint">Enter the third color</string>
+    <string name="txt4hint">Enter the fourth color</string>
+    <string name="txt5hint">Enter the fifth color</string>
+    <string name="txtButton2">Enter!</string>
+</resources>
