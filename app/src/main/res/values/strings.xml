@@ -9,4 +9,10 @@
     <string name="txt4hint">Enter the fourth color</string>
     <string name="txt5hint">Enter the fifth color</string>
     <string name="txtButton2">Enter!</string>
+
+    <string name="txtline1">1st color</string>
+    <string name="txtline2">2nd color</string>
+    <string name="txtline3">3rd color</string>
+    <string name="txtline4">4th color</string>
+    <string name="txtline5">5th color</string>
 </resources>
